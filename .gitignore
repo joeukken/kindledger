@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Hardhat artifacts & cache
+artifacts/
+cache/
+
+# Vite build output
+frontend/dist/
+
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
